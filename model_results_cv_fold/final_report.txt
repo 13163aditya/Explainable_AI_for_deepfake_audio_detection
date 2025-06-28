@@ -1,0 +1,8 @@
+5×5-Fold Cross Validation Results
+Mean Accuracy: 0.9941 (±0.0022)
+Best Accuracy: 0.9983
+Worst Accuracy: 0.9900
+
+Background Data Information:
+- Raw background samples: 100
+- Final background samples: 200

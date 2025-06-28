@@ -1,0 +1,4 @@
+5×10-Fold Cross Validation Results
+Mean Accuracy: 0.9983 (±0.0016)
+Best Accuracy: 1.0000
+Worst Accuracy: 0.9933
